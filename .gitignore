@@ -34,3 +34,6 @@ go.work.sum
 # Project specific
 /音视频材料
 .claude/
+
+.mp3
+.mp4
